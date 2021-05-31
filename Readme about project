@@ -1,0 +1,24 @@
+Because of foreigners, we did China Weather Forecast Inquiry System.
+We tried to find API about foreign weather data.But we couldn't find API.Sorry ㅠㅠㅠㅠ
+That because Chinese professor can't read.We want to use papago's API for language translation,but it didn't work.
+We can only use 'replace' grammer to do the language translation function
+Even so, the Input is in Chinese.
+So here's the list of cities in China that the professor just copies and pastes into the input to get the weather information.
+Thank you~
+
+China City Name (Input):
+石家庄 保定市 秦皇岛 唐山市 邯郸市 邢台市 沧州市 承德市 廊坊市 衡水市 张家口 太原市 大同市 阳泉市 长治市 临汾市 晋中市 运城市 晋城市 忻州市 朔州市 吕梁市
+呼和浩特 呼伦贝尔 包头市 赤峰市 乌海市 通辽市 鄂尔多斯 乌兰察布 巴彦淖尔 盘锦市 鞍山市 抚顺市 本溪市 铁岭市 锦州市 丹东市 辽阳市 葫芦岛 阜新市 朝阳市 营口市
+吉林市 通化市 白城市 四平市 辽源市 松原市 白山市
+伊春市 牡丹江 大庆市 鸡西市 鹤岗市 绥化市 双鸭山 七台河 佳木斯 黑河市 齐齐哈尔市
+无锡市 常州市 扬州市 徐州市 苏州市 连云港 盐城市 淮安市 宿迁市 镇江市 南通市 泰州市
+绍兴市 温州市 湖州市 嘉兴市 台州市 金华市 舟山市 衢州市 丽水市 安徽省：
+合肥市 芜湖市 亳州市 马鞍山 池州市 淮南市 淮北市 蚌埠市 巢湖市 安庆市 宿州市 宣城市 滁州市 黄山市 六安市 阜阳市 铜陵市
+福州市 泉州市 漳州市 南平市 三明市 龙岩市 莆田市 宁德市
+南昌市 赣州市 景德镇 九江市 萍乡市 新余市 抚州市 宜春市 上饶市 鹰潭市 吉安市
+潍坊市 淄博市 威海市 枣庄市 泰安市 临沂市 东营市 济宁市 烟台市 菏泽市 日照市 德州市 聊城市 滨州市 莱芜市
+郑州市 洛阳市 焦作市 商丘市 信阳市 新乡市 安阳市 开封市 漯河市 南阳市 鹤壁市 平顶山 濮阳市 许昌市 周口市 三门峡 驻马店
+荆门市 咸宁市 襄樊市 荆州市 黄石市 宜昌市 随州市 鄂州市 孝感市 黄冈市 十堰市
+长沙市 郴州市 娄底市 衡阳市 株洲市 湘潭市 岳阳市 常德市 邵阳市 益阳市 永州市 张家界 怀化市
+江门市 佛山市 汕头市 湛江市 韶关市 中山市 珠海市 茂名市 肇庆市 阳江市 惠州市 潮州市 揭阳市 清远市 河源市 东莞市 汕尾市 云浮市
+南宁市 贺州市 柳州市 桂林市 梧州市 北海市 玉林市 钦州市 百色市 防城港 贵港市 河池市 崇左市 来宾市
